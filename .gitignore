@@ -1,0 +1,6 @@
+upload_state.json
+*.log
+*.ps1
+.DS_Store
+Thumbs.db
+Desktop.ini
